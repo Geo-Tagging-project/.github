@@ -1,38 +1,38 @@
-## Hi there 👋 
+## Hi there 👋 We are Green Circle
 
-We are a community-driven organization dedicated to environmental conservation through technology. Our mission is to restore, protect, and document urban biodiversity using data and open-source tools.
+We are an environmental Non-Governmental Organization (NGO) dedicated to urban forestry, ecological conservation, and climate action through technological innovation.
 
 ---
 
 ### 🙋‍♀️ About Our Organization
-We build open-source software to empower citizens, students, and NGOs to protect nature. Our flagship initiative is the **Tree Geo-Tagging & Digitalization Project**, which maps urban forests, assigns interactive QR codes to trees, and tracks carbon sequestration metrics to combat climate change.
+Green Circle focuses on restoring and protecting biodiversity. Our flagship initiative is the **Tree Geo-Tagging & Digitalization Project**. By using open-source mapping tools, mobile tech, and dynamic QR codes, we catalog local tree species, monitor their health, and calculate carbon sequestration data to create sustainable urban ecosystems.
 
 ---
 
 ### 🌈 Contribution Guidelines
-We thrive on community contributions! You can get involved by:
-*   **Coding:** Check our open issues for bug fixes or feature requests.
-*   **Data Collection:** Use our mobile apps to map trees in your local neighborhood.
-*   **Design:** Help us improve our user dashboards and mapping interfaces.
-*   **Documentation:** Clear up technical guides or translate project files.
+We welcome developers, UI/UX designers, environmentalists, and data scientists to help us scale our impact:
+*   **Developers:** Help optimize our spatial database query speeds and improve mobile app mapping components.
+*   **Data Contributors:** Help expand our botanical look-up datasets for automated tree volume equations.
+*   **UI/UX Designers:** Simplify our field-tagging mobile interface for student volunteers.
+*   **Technical Writers:** Improve user manuals for NGOs using our platform in other cities.
 
-👉 Read our full `CONTRIBUTING.md` file in our repositories to get started with your first Pull Request.
+👉 Check out the `CONTRIBUTING.md` file in our core repositories to set up your local development workspace.
 
 ---
 
 ### 👩‍💻 Useful Resources
-*   **Main Documentation:** Visit our GitBook page for API and architecture blueprints.
-*   **Deployment Guides:** Look at our Docker setup guides to host your own local server.
-*   **Community Chat:** Join our active Discord server to discuss feature ideas.
-*   **Project Wiki:** Read our methodology on how we calculate tree carbon storage.
+*   **Official Portal:** Visit [green-circle.org](https://green-circle.org) to view our completed campus drives and impact metrics.
+*   **API Reference:** Read our documentation files to connect your apps to our public environmental databases.
+*   **Mapping Guide:** Review our core algorithms explaining how we translate tree Girth at Breast Height (GBH) into carbon numbers.
+*   **Community Forums:** Connect with our tech and field volunteer groups to coordinate upcoming environmental drives.
 
 ---
 
 ### 🍿 Fun Facts
-*   ☕ Our engineering team's official fuel consists of massive amounts of black coffee and fresh bananas.
-*   🌳 For every 50 pull requests merged across our repositories, our volunteers plant and geo-tag a new native tree seedling!
-*   🛰️ Our server clocks are set to track environmental data updates down to the millisecond.
+*   🌳 For every significant bug squash or major feature merge, our field team plants a native sapling during our weekend plantation drives!
+*   🎒 Our most active field data collectors are high school and university students using their smartphones.
+*   ☕ The coding sessions powering our mapping dashboards are entirely fueled by traditional South Indian filter coffee.
 
 ---
 
-🧙 *Remember, you can do mighty things with the power of technology and data to help save the planet!*
+🧙 *Remember, you can do mighty things with the power of open-source technology to protect our planet's green canopy!*
